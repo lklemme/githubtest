@@ -1,3 +1,5 @@
 freaturestuff.txt
 
 This file describes feature a.
+
+Feature 2 additions
